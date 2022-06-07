@@ -83,7 +83,7 @@ hr {
 
 }
 #Naruto {
-  background: url(media/noroto.JPG)no-repeat;
+  background: url(media/noroto.jpg)no-repeat;
 }
 #Elden {
   background: url(media/eldio.png)no-repeat;
@@ -158,37 +158,6 @@ hr {
   background-color: cyan;
   margin-left: -180px;
   box-shadow: -4px 4px 0 1px rgba(15,154,156,1);
-}
-#deuxiemeTrait {
-  height: 1px;
-  width: 75%;
-  background-color: #FFFAE1;
-  margin: 60px auto;
-}
-#copyrightEtIcons {
-  display: flex;
-  margin-bottom: 20px;
-  padding: 0 10%;
-}
-#copyright {
-  width: 50%;
-  text-align: left;
-  color: #FFFAE1;
-}
-#icons {
-  width: 50%;
-  text-align: right;
-}
-#icons a {
-  display: inline-block;
-  padding: 0 15px;
-  font-size: 1.3em;
-  color: #FFFAE1;
-}
-#icons a:hover {
-  transform: scale(1.5);
-  transition: 0.1s;
-}
 }
 #deuxiemeTrait {
   height: 1px;
